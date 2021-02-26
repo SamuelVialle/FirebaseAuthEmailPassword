@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TutoFirebase</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="logo_de_l_application">Logo de l\'application</string>
+</resources>
