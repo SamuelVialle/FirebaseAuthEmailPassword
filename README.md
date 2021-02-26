@@ -1,20 +1,19 @@
-## Création d'un application de connexion via email password le tout lié à Firebase
+# Connexion via email password le tout lié à Firebase
 
 Cette exemple montre comment ajouter à la main une gestion de connexion via email password
      
-      Elle comprend : 
-        - Une première page pour choisir entre login (se connecter) ou register (s'enregistrer)
-        - Une page d'authentification par email et password --> StartActivity
-        - Une page pour vous enregistrer --> RegisterActivity
-        - Un bouton pour se déconnecter --> MainActivity
-        - Une page qui gère votre application
+Elle comprend : 
+   - Une première page pour choisir entre login (se connecter) ou register (s'enregistrer)
+   - Une page d'authentification par email et password --> StartActivity
+   - Une page pour vous enregistrer --> RegisterActivity
+   - Un bouton pour se déconnecter --> MainActivity
+   - Une page qui gère votre application
 
-Avant de commencer le codage de notre application, il faut se rendre dans la console de Firebase,
-     accéder à un projet déjà créé ou en créer un (attention 20 projets max avant dépassement du quota)
+Avant de commencer le codage de notre application, il faut se rendre dans la console de Firebase, accéder à un projet déjà créé ou en créer un (attention 20 projets max avant dépassement du quota)
      
-        Ajouter votre application au projet
+### Ajouter votre application au projet
             // Ajout d'une photo
-        Remplir le formaulaire d'ajout d'application sans oublier d'y insérer le SHA1*
+        Remplir le formulaire d'ajout d'application sans oublier d'y insérer le SHA1*
         
         *Insérer le SHA1 :
             - Sous Android Studio :
