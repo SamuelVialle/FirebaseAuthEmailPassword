@@ -38,22 +38,22 @@ Vous allez enfin pouvoir commencer le codage ;)
                 
 ## Le design de l'app
 
-### 1 activity_start.xml --> Ajouter 2 boutons et une image (facultatif)
+#### 1 activity_start.xml --> Ajouter 2 boutons et une image (facultatif)
         // Ajout image 
      
-### 2 activity_login_register --> Ajouter 1 TextView pour le titre, 2 EditText un mail et un password, 1 bouton
+#### 2 activity_login_register --> Ajouter 1 TextView pour le titre, 2 EditText un mail et un password, 1 bouton
     Ce layout servira pour l'activité Login et pour l'activité Register le texte sera changé via la code  
 
-### 3 StartActivity.java : impléméntation du code
+#### 3 StartActivity.java : impléméntation du code
 
-### 4 LoginActivity.java : implémentation du code
+#### 4 LoginActivity.java : implémentation du code
 
-### 5 RegisterActivity.java : copie du code similaire à loginActivity
+#### 5 RegisterActivity.java : copie du code similaire à loginActivity
 
-### 6 LoginActivity.java : Liaison avec Firebase Authentication, gestion du login pour afficher l'activité MainActivity si user OK
+#### 6 LoginActivity.java : Liaison avec Firebase Authentication, gestion du login pour afficher l'activité MainActivity si user OK
 
-### 7 MainActivity.java : Ajout du bouton de déconnexion
+#### 7 MainActivity.java : Ajout du bouton de déconnexion
 
-### 8 Vous pouvez maintenant lancer l'application pour la tester
+#### 8 Vous pouvez maintenant lancer l'application pour la tester
         
         
