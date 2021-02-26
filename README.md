@@ -46,13 +46,13 @@ Vous allez enfin pouvoir commencer le codage ;)
 
 ### 3 StartActivity.java : impléméntation du code
 
-########### 4 LoginActivity.java : implémentation du code
+### 4 LoginActivity.java : implémentation du code
 
-######### 5 RegisterActivity.java : copie du code similaire à loginActivity
+### 5 RegisterActivity.java : copie du code similaire à loginActivity
 
-####### 6 LoginActivity.java : Liaison avec Firebase Authentication, gestion du login pour afficher l'activité MainActivity si user OK
+### 6 LoginActivity.java : Liaison avec Firebase Authentication, gestion du login pour afficher l'activité MainActivity si user OK
 
-##### 7 MainActivity.java : Ajout du bouton de déconnexion
+### 7 MainActivity.java : Ajout du bouton de déconnexion
 
 ### 8 Vous pouvez maintenant lancer l'application pour la tester
         
