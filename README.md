@@ -1,4 +1,6 @@
-# Connexion via email password le tout lié à Firebase
+# Connexion via email password avec Firebase Authentication
+
+![startActivity](https://samuelvialle.com/imgGit/startActivity.png
 
 Cette application montre comment ajouter à la main une gestion de connexion via email password
      
