@@ -38,7 +38,12 @@ Remplir le formulaire d'ajout d'application sans oublier d'y insérer le SHA1*
           <img src="https://samuelvialle.com/imgGit/Gradle2.png">
      </p>
 - Dans le terminal qui vient de s'ouvrir, copier le SHA1 puis le coller dans le formulaire de Firebase
+
 *Penser à sélectionner app dans le menu déroulant à coté du marteau (make) 
+ <p align="center">
+          <img src="https://samuelvialle.com/imgGit/selctApp.png">
+          <img src="https://samuelvialle.com/imgGit/selctApp2.png">
+     </p>
 
 Récupérer le fichier de configuration json, le copier dans le répertoire app d'Android Studio (répertoire acessible depuis la vue Project)
  // Ajout d'une photo
