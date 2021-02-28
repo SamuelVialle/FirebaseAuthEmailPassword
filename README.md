@@ -55,19 +55,24 @@ Quitter le didacticiel de Firebase puis rendez-vous dans l'onglet Authentication
           <img src="https://samuelvialle.com/imgGit/authentication0.png">
      </p>
 Activer l'authentification par Adresse e-mail/Mot de passe dans Sign-in method
+ <p align="center">
+          <img src="https://samuelvialle.com/imgGit/AuthFirebase.png">
+     </p>
      
 De retour dans Firebase cliquer sur Tools > Firebase
-Dans l'assistant cliquer sur Authentication > Choisir n'importe quel choix puis ajouter les dépendances requises          
+Dans l'assistant cliquer sur Authentication > Choisir n'importe quel choix puis ajouter les dépendances requises       
+   <p align="center">
+          <img src="https://samuelvialle.com/imgGit/authentication.png">
+     </p>
 
 Vous allez enfin pouvoir commencer le codage ;)
                 
-## Le design de l'app
+## La marche à suivre (ouvrir les fichiers correspondants et lire les commentaires associés)
 
 #### 1 activity_start.xml --> Ajouter 2 boutons et une image (facultatif)
-        // Ajout image 
-     
+            
 #### 2 activity_login_register --> Ajouter 1 TextView pour le titre, 2 EditText un mail et un password, 1 bouton
-    Ce layout servira pour l'activité Login et pour l'activité Register le texte sera changé via la code  
+Ce layout servira pour l'activité Login et pour l'activité Register le texte sera changé via la code  
 
 #### 3 StartActivity.java : impléméntation du code
 
