@@ -46,12 +46,15 @@ Remplir le formulaire d'ajout d'application sans oublier d'y insérer le SHA1*
      </p>
 
 Récupérer le fichier de configuration json, le copier dans le répertoire app d'Android Studio (répertoire acessible depuis la vue Project)
- // Ajout d'une photo
+<p align="center">
+          <img src="https://samuelvialle.com/imgGit/json.png">
+     </p>
         
 Quitter le didacticiel de Firebase puis rendez-vous dans l'onglet Authentication
-            // Ajout d'une photo
+            <p align="center">
+          <img src="https://samuelvialle.com/imgGit/authentication0.png">
+     </p>
 Activer l'authentification par Adresse e-mail/Mot de passe dans Sign-in method
-Ajouter un email factice pour tester la page login de votre application dans Users
      
 De retour dans Firebase cliquer sur Tools > Firebase
 Dans l'assistant cliquer sur Authentication > Choisir n'importe quel choix puis ajouter les dépendances requises          
