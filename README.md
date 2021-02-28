@@ -1,6 +1,10 @@
 # Connexion via email password avec Firebase Authentication
 
-![startActivity](https://samuelvialle.com/imgGit/startActivity.png | =150x250)
+<p align="center">
+  <img src="https://samuelvialle.com/imgGit/startActivity.png" width="200" title="startAsctivity.java">
+  <img src="https://samuelvialle.com/imgGit/loginActivity.png" width="200" title="startAsctivity.java">
+  <img src="https://samuelvialle.com/imgGit/registerActivity.png" width="200" title="startAsctivity.java">
+</p>
 
 Cette application montre comment ajouter à la main une gestion de connexion via email password
      
@@ -14,15 +18,26 @@ Elle comprend :
 Avant de commencer à coder, il faut se rendre dans la console de Firebase, accéder à un projet déjà créé ou en créer un (attention 20 projets max avant dépassement du quota)
      
 ### Ajouter votre application au projet
-            // Ajout d'une photo
+<p align="center">
+     <img src="https://samuelvialle.com/imgGit/addAppToFB.png" width="200" title="startAsctivity.java">
+</p>
 Remplir le formulaire d'ajout d'application sans oublier d'y insérer le SHA1*
-        
+<p align="center">
+     <img src="https://samuelvialle.com/imgGit/addAppToFirebase.png" width="200" title="startAsctivity.java">
+</p>
+
 *Insérer le SHA1 :
 - Sous Android Studio :
-- Ouvrir l'onglet Gradle (sur la partie droite de l'écran)
+- Ouvrir l'onglet Gradle (sur la partie droite de l'écran)</td>
+     <p align="center">
+          <img src="https://samuelvialle.com/imgGit/Gradle.png" width="200" title="startAsctivity.java">
+     </p>
 - Dérouler Tasks > Android ou App > Android 
 - Double cliquer sur signingReport
-- Copier le SHA1 dans le formulaire de Firebase
+     <p align="center">
+          <img src="https://samuelvialle.com/imgGit/Gradle2.png" width="200" title="startAsctivity.java">
+     </p>
+- Dans le terminal qui vient de s'ouvrir, copier le SHA1 puis le coller dans le formulaire de Firebase
 *Penser à sélectionner app dans le menu déroulant à coté du marteau (make) 
 
 Récupérer le fichier de configuration json, le copier dans le répertoire app d'Android Studio (répertoire acessible depuis la vue Project)
