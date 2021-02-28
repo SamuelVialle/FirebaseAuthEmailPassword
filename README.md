@@ -1,9 +1,9 @@
 # Connexion via email password avec Firebase Authentication
 
 <p align="center">
-  <img src="https://samuelvialle.com/imgGit/startActivity.png" width="200" title="startAsctivity.java">
-  <img src="https://samuelvialle.com/imgGit/loginActivity.png" width="200" title="startAsctivity.java">
-  <img src="https://samuelvialle.com/imgGit/registerActivity.png" width="200" title="startAsctivity.java">
+  <img src="https://samuelvialle.com/imgGit/startActivity.png" width="200" title="startActivity.java">
+  <img src="https://samuelvialle.com/imgGit/loginActivity.png" width="200" title="loginActivity.java">
+  <img src="https://samuelvialle.com/imgGit/registerActivity.png" width="200" title="registerActivity.java">
 </p>
 
 Cette application montre comment ajouter à la main une gestion de connexion via email password
@@ -19,23 +19,23 @@ Avant de commencer à coder, il faut se rendre dans la console de Firebase, acc�
      
 ### Ajouter votre application au projet
 <p align="center">
-     <img src="https://samuelvialle.com/imgGit/addAppToFB.png" width="200" title="startAsctivity.java">
+     <img src="https://samuelvialle.com/imgGit/addAppToFB.png">
 </p>
 Remplir le formulaire d'ajout d'application sans oublier d'y insérer le SHA1*
 <p align="center">
-     <img src="https://samuelvialle.com/imgGit/addAppToFirebase.png" width="200" title="startAsctivity.java">
+     <img src="https://samuelvialle.com/imgGit/addAppToFirebase.png">
 </p>
 
 *Insérer le SHA1 :
 - Sous Android Studio :
 - Ouvrir l'onglet Gradle (sur la partie droite de l'écran)</td>
      <p align="center">
-          <img src="https://samuelvialle.com/imgGit/Gradle.png" width="200" title="startAsctivity.java">
+          <img src="https://samuelvialle.com/imgGit/Gradle.png">
      </p>
 - Dérouler Tasks > Android ou App > Android 
 - Double cliquer sur signingReport
      <p align="center">
-          <img src="https://samuelvialle.com/imgGit/Gradle2.png" width="200" title="startAsctivity.java">
+          <img src="https://samuelvialle.com/imgGit/Gradle2.png">
      </p>
 - Dans le terminal qui vient de s'ouvrir, copier le SHA1 puis le coller dans le formulaire de Firebase
 *Penser à sélectionner app dans le menu déroulant à coté du marteau (make) 
