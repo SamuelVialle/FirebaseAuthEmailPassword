@@ -86,7 +86,6 @@ Ce layout servira pour l'activité Login et pour l'activité Register le texte s
 
 #### 8 Vous pouvez maintenant lancer l'application pour la tester
 
-## Ajouter la permission d'accès à internet dans le manifest
-`<uses-permission android:name="android.permission.INTERNET"/>`
+
         
         
